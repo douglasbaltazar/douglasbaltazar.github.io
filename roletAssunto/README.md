@@ -1,3 +1,1 @@
-# Laruleta
-Ruleta que te permite rifar elementos.
-https://oscaruhp.github.io/Laruleta/
+Roleta paraa nunca mais falta assunto, baseada em: https://oscaruhp.github.io/Laruleta/
